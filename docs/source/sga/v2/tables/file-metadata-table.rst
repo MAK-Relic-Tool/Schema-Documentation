@@ -1,6 +1,3 @@
-File Metadata
-=============
-
 .. list-table:: File Metadata
    :header-rows: 1
 
@@ -14,13 +11,13 @@ File Metadata
      - 255
      - 256
      - String
-     - File Name [2]_
+     - File Name
 
    * - 256
      - 259
      - 4
      - UInt-32
-     - Unix Timestamp
+     - Last Modified
 
    * - 260
      - 263

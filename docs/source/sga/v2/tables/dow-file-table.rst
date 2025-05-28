@@ -1,8 +1,9 @@
 
-Impossible Creatures File Definition
+Dawn Of War File Definition
 ===============
 
-.. list-table:: File Definition (Impossible Creatures)
+
+.. list-table:: File Definition (Dawn Of War)
    :header-rows: 1
 
    * - Start
@@ -15,28 +16,28 @@ Impossible Creatures File Definition
      - 3
      - 4
      - UInt-32
-     - Relative Name Offset
+     - Name Offset
 
    * - 4
+     - 7
      - 4
-     - 1
-     - UInt-8
+     - UInt-32
      - Storage Flag
 
-   * - 5
-     - 8
+   * - 8
+     - 11
      - 4
      - UInt-32
      - Relative Data Offset
 
-   * - 9
-     - 12
+   * - 12
+     - 15
      - 4
      - UInt-32
      - Compressed Size
 
-   * - 13
-     - 16
+   * - 16
+     - 19
      - 4
      - UInt-32
      - Decompressed Size

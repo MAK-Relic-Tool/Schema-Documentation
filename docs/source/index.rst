@@ -1,8 +1,9 @@
-Relic File Specifications
-=========================
+Relic File Formats
+==================
 
 .. toctree::
-   :maxdepth: 5
-   :caption: Contents:
+   :maxdepth: 3
+   :includehidden:
+   :titlesonly:
 
-   sga/v2/index
+   sga/index

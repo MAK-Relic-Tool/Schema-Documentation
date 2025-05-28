@@ -1,5 +1,3 @@
-Root Folder Definition
-======================
 
 .. list-table:: Root Folder Definition
    :header-rows: 1

@@ -1,5 +1,3 @@
-Folder Definition
-=================
 .. list-table:: Folder Definition
    :header-rows: 1
 
@@ -13,28 +11,28 @@ Folder Definition
      - 3
      - 4
      - UInt-32
-     - Relative Name Offset
+     - Name Offset
 
    * - 4
      - 5
      - 2
      - UInt-16
-     - Child Folder Start Index
+     - First Child Folder
 
    * - 6
      - 7
      - 2
      - UInt-16
-     - Child Folder Stop Index
+     - Last Child Folder
 
    * - 8
      - 9
      - 2
      - UInt-16
-     - File Start Index
+     - First File
 
    * - 10
      - 11
      - 2
      - UInt-16
-     - File Stop Index
+     - Last File

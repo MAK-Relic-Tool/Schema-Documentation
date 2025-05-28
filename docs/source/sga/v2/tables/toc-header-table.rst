@@ -1,9 +1,4 @@
-
-Table Of Contents Layout
-=================
-
-
-.. list-table:: Table Of contents
+.. list-table:: Table Of contents Header
    :header-rows: 1
 
    * - Start
